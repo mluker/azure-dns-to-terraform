@@ -1,4 +1,6 @@
 # Overview
+Generate a Terraform script to create all of the DNS entries within an exported Azure DNS csv file. Copy the DNS entries from Azure and paste them into a CSV file for usage.
+
 * Only A and CNAME records are implemented.
 * Alias resource type and Alias target are not implemented
 
