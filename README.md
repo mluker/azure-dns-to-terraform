@@ -6,7 +6,7 @@ Generate a Terraform script to create all of the DNS entries within an exported 
 
 # Usage
 ```
-python3 tfdnsgen --zone <zone name> --rg <resource group> --cssvfile <input> --tffile <output>
+python3 tfdnsgen --zone <zone name> --rg <resource group> --csvfile <input> --tffile <output>
 ```
 
 # CSV File Format
